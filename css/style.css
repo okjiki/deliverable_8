@@ -85,3 +85,11 @@ font-size: 30px;
 .item4 {
   grid-column: 1;
 }
+.item_a{
+	grid-column-start: 3;
+	grid-row-start: 3;
+}
+.item_b{
+	grid-column-start: 3;
+
+}
